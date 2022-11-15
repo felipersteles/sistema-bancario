@@ -1,0 +1,5 @@
+// git ignore com base nos requisitos
+node_modules
+.env
+
+**/migrations
